@@ -58,9 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: Ionian University
+      time: 2014 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -96,9 +96,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Junior Software Engineer
+      time: 2022 - Now
+      company: Ionian University, Corfu
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -171,7 +171,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
       - name: Javascript & jQuery
@@ -186,7 +186,7 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
 
 footer: >
