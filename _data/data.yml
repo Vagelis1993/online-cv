@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Undergraduate IT student | Ionian University
+      Undergraduate IT student at Ionian University
 education:
     - degree: BSc in Computer Science
       university: Ionian University
@@ -66,7 +66,7 @@ education:
           - Bullet point
 experiences:
     - role: Web Developer
-      time: 2021 - 2022
+      time: 2020 - 2022
       company: netDesigns
       details: |
         This internship will allow interns to obtain insights on the empoyment enviroment. It includes
@@ -82,7 +82,7 @@ projects:
         link: "https://www.vivarte.gr/"
         tagline: "A responsive website template designed to help people of art about arts."
 
-      - title: e-moketes
+      - title: Koniaris Carpet Center
         link: "https://e-moketes.gr/"
         tagline: "A responsive website template designed to help web people buy carpets and other stuff for their decoration."
 
