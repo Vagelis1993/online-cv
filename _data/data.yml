@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -51,7 +51,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Undergraduate IT student at Ionian University
+      My name is Vangelis and I am Undergraduate IT student at Ionian University at the Department of Informatics.
+      I want to create and maintain websites,
+      using the latest industry software to provide
+      a superior user experience.
 education:
     - degree: BSc in Computer Science
       university: Ionian University
